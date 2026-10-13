@@ -1,0 +1,8 @@
+C:\Users\Family\Documents\Semana7\Semana 8\Caso empleado\Caso empleado\bin\Debug\Caso empleado.exe.config
+C:\Users\Family\Documents\Semana7\Semana 8\Caso empleado\Caso empleado\bin\Debug\Caso empleado.exe
+C:\Users\Family\Documents\Semana7\Semana 8\Caso empleado\Caso empleado\bin\Debug\Caso empleado.pdb
+C:\Users\Family\Documents\Semana7\Semana 8\Caso empleado\Caso empleado\obj\Debug\Caso empleado.csproj.AssemblyReference.cache
+C:\Users\Family\Documents\Semana7\Semana 8\Caso empleado\Caso empleado\obj\Debug\Caso empleado.csproj.CoreCompileInputs.cache
+C:\Users\Family\Documents\Semana7\Semana 8\Caso empleado\Caso empleado\obj\Debug\Caso empleado.exe
+C:\Users\Family\Documents\Semana7\Semana 8\Caso empleado\Caso empleado\obj\Debug\Caso empleado.pdb
+C:\Users\Family\Documents\Semana7\Semana 8\Caso empleado\Caso empleado\obj\Debug\Caso empleado.exe.config
